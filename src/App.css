@@ -1,0 +1,11 @@
+body {
+    background-image: url('https://wallpx.com/image/2020/12/sunshine-colorful-clouds-sky.jpg');
+    background-repeat: no-repeat;
+  }
+  
+  .box {
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 270px;
+  }
+  
